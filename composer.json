@@ -8,5 +8,8 @@
             "email": "1041242370@qq.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "require-dev": {
+        "lazycao520/http": "^1.0"
+    }
 }
