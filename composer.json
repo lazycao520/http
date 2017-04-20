@@ -1,0 +1,12 @@
+{
+    "name": "lazycao520/http",
+    "description": "http",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "lazycao520",
+            "email": "1041242370@qq.com"
+        }
+    ],
+    "require": {}
+}
